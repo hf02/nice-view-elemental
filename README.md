@@ -1,3 +1,7 @@
+
+> [!important]
+> I've moved the repository over here: https://github.com/hf02/nice-view-turtle
+
 # **modification of** nice!view Elemental
 
 ![image](https://github.com/user-attachments/assets/faa4130b-564e-4f3d-8f19-0bfeca774c4c)
